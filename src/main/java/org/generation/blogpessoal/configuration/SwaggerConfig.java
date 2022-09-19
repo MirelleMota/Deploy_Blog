@@ -23,15 +23,15 @@ public class SwaggerConfig {
 					.description("Projeto Blog Pessoal - Generation Brasil")
 					.version("v0.0.1")
 				.license(new License()
-					.name("Generation Brasil")
+					.name("Blog Pessoal")
 					.url("https://brazil.generation.org/"))
 				.contact(new Contact()
 					.name("Conteudo Generation")
-					.url("https://github.com/conteudoGeneration")
-					.email("conteudogeneration@gmail.com")))
+					.url("https://github.com/MirelleMota")
+					.email("mirelle.motta06@gmail.com")))
 				.externalDocs(new ExternalDocumentation()
 					.description("Github")
-					.url("https://github.com/conteudoGeneration/"));
+					.url("https://github.com/MirelleMota/Blog-Pessoal/"));
 	}
 
 	@Bean
